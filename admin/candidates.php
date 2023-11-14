@@ -56,7 +56,7 @@
                   <th>Photo</th>
                   <th>Firstname</th>
                   <th>Lastname</th>
-                  <th>Platform</th>
+                  <th>Party</th>
                   <th>Tools</th>
                 </thead>
                 <tbody>

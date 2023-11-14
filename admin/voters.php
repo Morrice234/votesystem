@@ -54,7 +54,7 @@
                   <th>Lastname</th>
                   <th>Firstname</th>
                   <th>Photo</th>
-                  <th>Voters ID</th>
+                  <th>Voter's ID</th>
                   <th>Tools</th>
                 </thead>
                 <tbody>
